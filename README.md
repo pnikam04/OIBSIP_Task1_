@@ -1,4 +1,4 @@
-# OIBSIP_Task1_
+# OIBSIP_Task1_LandingPage
 I Developed this Landing Page using HTML &amp; CSS , JAVA SCRIPT
 <!DOCTYPE html>
 <html lang="en">
